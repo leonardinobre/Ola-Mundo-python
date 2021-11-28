@@ -1,2 +1,3 @@
-# ola-mundo
- ola-mundo em python
+# Olá, Mundo!
+ Primeiro repositório em Python
+ 
